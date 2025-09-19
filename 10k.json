@@ -1,0 +1,67 @@
+[
+  {
+    "Risk Category": "Regulatory / Compliance",
+    "Verbatim": "Regulatory risks, including the impact that applicable laws, rules and regulations in the highly-regulated and supervised financial services industry, as well as changes to or in the application, interpretation or enforcement of those laws, rules and regulations, can have on [the Firm’s] business and operations…",
+    "Page Citation": ["7:CORP 10K 2023 L840-L849", "13:CORP 10K 2024 L9-L13"]
+  },
+  {
+    "Risk Category": "Political / Macro Environment",
+    "Verbatim": "Political risks, including the potential negative effects on [the Firm’s] businesses due to economic uncertainty or instability caused by political developments.",
+    "Page Citation": ["7:CORP 10K 2023 L850-L853", "13:CORP 10K 2024 L9-L13"]
+  },
+  {
+    "Risk Category": "Market / Macroeconomic",
+    "Verbatim": "Market risks, including the effects that economic and market events and conditions, governmental policies, changes in interest rates and credit spreads, and market fluctuations can have on [the Firm’s] consumer and wholesale businesses and its investment and market-making positions…",
+    "Page Citation": ["7:CORP 10K 2023 L854-L860", "13:CORP 10K 2024 L9-L13"]
+  },
+  {
+    "Risk Category": "Credit",
+    "Verbatim": "Credit risks, including potential negative effects from adverse changes in the financial condition of clients, customers, counterparties, custodians and central counterparties…",
+    "Page Citation": ["7:CORP 10K 2023 L861-L867", "13:CORP 10K 2024 L9-L13"]
+  },
+  {
+    "Risk Category": "Liquidity / Funding",
+    "Verbatim": "Liquidity risks, including the risk that [the Firm’s] liquidity could be impaired by market-wide illiquidity or disruption, unforeseen liquidity or capital requirements, the inability to sell assets…",
+    "Page Citation": ["7:CORP 10K 2023 L868-L875", "13:CORP 10K 2024 L9-L13"]
+  },
+  {
+    "Risk Category": "Capital Adequacy",
+    "Verbatim": "Capital risks, including the risk that any failure by or inability of [the Firm] to maintain the required level and composition of capital, or unfavorable changes in applicable capital requirements…",
+    "Page Citation": ["7:CORP 10K 2023 L876-L879", "13:CORP 10K 2024 L9-L13"]
+  },
+  {
+    "Risk Category": "Operational / Cybersecurity",
+    "Verbatim": "Operational risks, including risks associated with [the Firm’s] dependence on its operational systems, its ability to maintain appropriately-staffed workforces… [and] the harm that could be caused by a successful cyber attack.",
+    "Page Citation": ["7:CORP 10K 2023 L880-L889", "13:CORP 10K 2024 L9-L13"]
+  },
+  {
+    "Risk Category": "Strategic / Competition / Climate",
+    "Verbatim": "Strategic risks, including the damage to [the Firm’s] competitive standing and results that could occur if management fails to develop and execute effective business strategies… and the potential adverse impacts of climate change…",
+    "Page Citation": ["7:CORP 10K 2023 L890-L895", "13:CORP 10K 2024 L9-L13"]
+  },
+  {
+    "Risk Category": "Conduct / Culture",
+    "Verbatim": "Conduct risks, including the negative impact that can result from the actions or misconduct of employees…",
+    "Page Citation": ["7:CORP 10K 2023 L896-L899", "13:CORP 10K 2024 L9-L13"]
+  },
+  {
+    "Risk Category": "Reputation",
+    "Verbatim": "Reputation risks, including the potential adverse effects on [the Firm’s] relationships with its clients, customers, shareholders, regulators and other stakeholders…",
+    "Page Citation": ["7:CORP 10K 2023 L900-L906", "13:CORP 10K 2024 L9-L13"]
+  },
+  {
+    "Risk Category": "Geopolitical / Country",
+    "Verbatim": "Country risks, including potential impacts on [the Firm’s] businesses from an outbreak or escalation of hostilities between countries or within a country or region…",
+    "Page Citation": ["7:CORP 10K 2023 L907-L912", "13:CORP 10K 2024 L9-L13"]
+  },
+  {
+    "Risk Category": "Human Capital",
+    "Verbatim": "People risks, including the criticality of attracting and retaining qualified and diverse employees…",
+    "Page Citation": ["7:CORP 10K 2023 L913-L915", "13:CORP 10K 2024 L9-L13"]
+  },
+  {
+    "Risk Category": "Legal / Litigation",
+    "Verbatim": "Legal risks, including those relating to litigation and regulatory and government investigations.",
+    "Page Citation": ["7:CORP 10K 2023 L916-L917", "13:CORP 10K 2024 L9-L13"]
+  }
+]
